@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
+<img src="https://ied.eu/wp-content/uploads/2018/06/motivation.png" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🔭 I'm currently working on: MERN Stack projects and full-stack web applications
